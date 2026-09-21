@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-DISCORD_TOKEN = os.getenv("MTU1MTYwNzY5Nzk2OTkwOTc3MA.GXvAyp.OzUpOXl28HlAM1xqO65xKoe7KuE2JMQyQAefmw")
+DISCORD_TOKEN = os.getenv("MTU1MTYwNzY5Nzk2OTkwOTc3MA.GFsvkb.1kQ_NIB_JSNe61fdrfmiNK0u_6xZ5VtuGBQAKg")
 DISCORD_GUILD_ID = int(os.getenv("DISCORD_GUILD_ID", "0"))
 DISCORD_CHAT_CHANNEL_ID = int(os.getenv("1551328177006059601", "0"))
 DISCORD_ANNOUNCE_CHANNEL_ID = int(os.getenv("1551328177006059601", "0"))
